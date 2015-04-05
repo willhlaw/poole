@@ -3,17 +3,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Will Lawrence's Blog
+tagline:          Development, Javascript, and interesting technologies fused with business topics and startup ideas
+url:              https://willhlaw.github.io/willhlaw/
 paginate:         1
-baseurl:          /
+baseurl:          http://username.github.io/willhlaw/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Will Lawrence
+  url:            https://twitter.com/willhlaw
+  email:          will.lawrence@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/willhlaw/willhlaw.github.io
