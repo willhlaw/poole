@@ -7,7 +7,7 @@ title:            Will Lawrence's Blog
 tagline:          Development, Javascript, and interesting technologies fused with business topics and startup ideas
 url:              https://willhlaw.github.io/willhlaw/
 paginate:         1
-baseurl:          http://username.github.io/willhlaw/
+baseurl:          http://willhlaw.github.io/willhlaw/
 author:
   name:           Will Lawrence
   url:            https://twitter.com/willhlaw
